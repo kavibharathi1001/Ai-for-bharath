@@ -774,9 +774,17 @@ The application will use fast-check for property-based testing in JavaScript/Typ
 
 
 
-
+### I Tryed Sample Wireframe on Figma 
 
 
 <img width="1236" height="911" alt="wiref -Ai-bh" src="https://github.com/user-attachments/assets/886bbdc6-391f-4def-9636-8db69dcfbb0f" />
 
 
+
+
+https://www.figma.com/design/6ej9H0JWDtKy47eroGZZIl/diry-wireframe1?node-id=8-5&t=0BYRMdwQ6YcDurn5-1
+
+
+
+
+https://www.figma.com/proto/6ej9H0JWDtKy47eroGZZIl/diry-wireframe1?node-id=8-5&p=f&t=WVPQPo9REIgWwZnR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A5
