@@ -772,3 +772,11 @@ The application will use fast-check for property-based testing in JavaScript/Typ
    - Test clarity of prediction notifications
    - Test satisfaction with generated artwork
 
+
+
+
+
+
+<img width="1236" height="911" alt="wiref -Ai-bh" src="https://github.com/user-attachments/assets/886bbdc6-391f-4def-9636-8db69dcfbb0f" />
+
+
